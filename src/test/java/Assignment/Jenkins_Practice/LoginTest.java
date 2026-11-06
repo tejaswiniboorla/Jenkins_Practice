@@ -7,6 +7,6 @@ public class LoginTest {
 	@Test
 	void hello()
 	{
-		System.out.println("Checking the Jenkins");
+		System.out.println("Checking the Jenkins-1");
 	}
 }
